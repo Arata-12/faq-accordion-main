@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-[screenshot](assets/images/imagesite.png)
+![screenshot](assets/images/imagesite.png)
 
 ## Features
 
